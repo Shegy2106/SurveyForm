@@ -1,0 +1,21 @@
+body{
+  margin: auto;
+  margin-top: 0%;
+  width: 50%;
+  font-family: 'Roboto', sans-serif;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  font-family: 'Playfair Display', serif;
+  margin: 5%;
+  margin-left: auto;
+  --font-size: 4vmax;
+}
+
+input, select, textarea{
+  margin-bottom: 2%;
+  padding: 5px;
+  --float: right;
+}
